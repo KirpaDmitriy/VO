@@ -1,0 +1,121 @@
+###
+POST http://localhost/add_room
+Content-Type: application/json
+
+{
+  "number": "402 b",
+  "name": "Палата 6",
+  "description": "Воняет клопами и аммиаком",
+  "rate": 0,
+  "dorm": 1,
+  "ava": "https://vk.com/sticker/1-69-128"
+}
+
+###
+POST http://localhost/add_room
+Content-Type: application/json
+
+{
+  "number": "603 a",
+  "name": "Царские палаты",
+  "description": "Ель растет перед дворцом",
+  "rate": 0,
+  "dorm": 1,
+  "ava": "https://vk.com/sticker/1-91-128"
+}
+
+###
+POST http://localhost/add_room
+Content-Type: application/json
+
+{
+  "number": "804 c",
+  "name": "Бандиты",
+  "description": "Шняга шняжная жизнь опщажная",
+  "rate": 0,
+  "dorm": 1,
+  "ava": "https://vk.com/sticker/1-60-128"
+}
+
+###
+POST http://localhost/add_room
+Content-Type: application/json
+
+{
+  "number": "102",
+  "name": "МОЯ КРЕПОСТЬ",
+  "description": "Что в имени тебе моём...",
+  "rate": 0,
+  "dorm": 1,
+  "ava": "https://vk.com/sticker/1-40-128"
+}
+
+###
+POST http://localhost/add_room
+Content-Type: application/json
+
+{
+  "number": "1005(a)",
+  "name": "Осторожно, злая собака",
+  "description": "ГААААААААААААВ!!!",
+  "rate": 0,
+  "dorm": 1,
+  "ava": "https://vk.com/sticker/1-25-128"
+}
+
+###
+POST http://localhost/add_room
+Content-Type: application/json
+
+{
+  "number": "1312",
+  "name": "Камера #3",
+  "description": "Моя любовь на 5 этаже!",
+  "rate": 0,
+  "dorm": 1,
+  "ava": "https://vk.com/sticker/1-19-128"
+}
+
+###
+POST http://localhost/add_room
+Content-Type: application/json
+
+{
+  "number": "1111",
+  "name": "УауУауУауа",
+  "description": "Пива нет. Совсем",
+  "rate": 0,
+  "dorm": 2,
+  "ava": "https://vk.com/sticker/1-25-128"
+}
+
+###
+POST http://localhost/add_room
+Content-Type: application/json
+
+{
+  "number": "1212",
+  "name": "Не мы",
+  "description": "Это не мы орем по ночам!",
+  "rate": 0,
+  "dorm": 2,
+  "ava": "https://vk.com/sticker/1-25-128"
+}
+
+###
+POST http://localhost/add_dorm
+Content-Type: application/json
+
+{
+  "name": "Общежитие №4",
+  "description": "Лучшее общежитие города. Высокое качество, низкие цены"
+}
+
+###
+POST http://localhost/add_dorm
+Content-Type: application/json
+
+{
+  "name": "Общежитие Альпийка",
+  "description": "Не был там, ничо сказать не могу"
+}
